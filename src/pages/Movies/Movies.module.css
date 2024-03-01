@@ -1,0 +1,20 @@
+.form {
+    display: flex;
+    justify-content: space-between;
+    width: 520px;
+    margin:auto;
+}
+.btn {
+    cursor: pointer;
+    height: 22px;
+    width: 66px;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    background-color: rgba(94,0,0,1);
+    box-shadow: 2px 2px 3px 0px rgb(0, 0, 0);
+    border-radius: 5px;
+    border: none;
+}
+.input {
+    width: 400px;
+}
